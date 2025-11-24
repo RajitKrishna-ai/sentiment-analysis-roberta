@@ -51,5 +51,5 @@ This project leverages **classic NLP techniques** and **transformer-based models
 /notebooks/modeling # Model training & evaluation
 /src # Core scripts & utilities
 /deployment # Flask API code
-/pipeline # Automation scripts (optional Airflow DAG)
+/pipeline # Automation scripts
 /docs # Screenshots, diagrams, documentation
